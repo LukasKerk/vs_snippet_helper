@@ -1,0 +1,8 @@
+cut-short
+
+This is just some $example$ text.
+I need this to test a $bit$
+$end$
+$anotherVariable$ is here.
+This is the first $dublicate$.
+This is the second $dublicate$.
